@@ -21,8 +21,7 @@ h1 {
        - 6px blur radius (softness)
        - gray color */
 }
-
-p {
+    p {
     color: white;
     /* Sets lyric text color to white */
 
@@ -59,3 +58,4 @@ a {
     font-size: 12px;
     /* Makes the link text smaller */
 }
+    
